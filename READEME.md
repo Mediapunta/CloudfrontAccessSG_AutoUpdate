@@ -1,4 +1,3 @@
-
 ## 설명
 AWS 환경에서 서비스를 구성 후 사용하다보면 Security Group 에 특정 IP List 를 자동으로 업데이트해서 관리해야하는 경우가 종종 발생합니다. 
 예를 들면 CloudFront 를 이용해서 웹 서비스를 구성한 경우 Origin ALB 나 EC2 인스턴스에 적용된 Security Group 은 별도로 꼭 필요하지 않다면, 
