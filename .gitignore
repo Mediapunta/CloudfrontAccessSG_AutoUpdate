@@ -1,3 +1,3 @@
-.teraform
+.teraform/
 terraform.tfstate
 terraform.tfstate.backup
